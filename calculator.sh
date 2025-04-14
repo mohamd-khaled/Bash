@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#created by
+#created by Mohamed khaled
 
 echo -n "Enter first number "
 read num1
